@@ -1,0 +1,6 @@
+{
+  "name": "Offline-First Service Operating System",
+  "description": "An investor-grade SaaS and offline-first autonomous operating system that transforms physical/manual tasks into digital captive-portal workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
